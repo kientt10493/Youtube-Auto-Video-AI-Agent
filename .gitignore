@@ -1,0 +1,6 @@
+media/
+output/
+storage/
+temp/
+assets/
+.env
